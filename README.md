@@ -1,1 +1,16 @@
-# Coding
+This file includes the rule based chatbot
+**What are the rule based Chatbot?**
+A rule-based chatbot is a type of conversational agent that operates according to a predefined set of rules. These rules dictate how the chatbot should respond to user inputs or queries. Typically, rule-based chatbots use a series of if-then statements or decision trees to determine the appropriate response based on the user's message.
+This rule based chatbot is called ProPrepChat, this chatbot is designed for college students basically those students who are in their final year or are in their second last year,who are looking for internships and also getting ready for their placements,this bot will help them in that.
+It works for basically 3-4 set of rules which are based on Internships,general aptitude,placements,interviews and help in choosing careers.
+**Advantages of Rule Based chatbots:**
+1) Rule-based chatbots are relatively easy to develop and maintain compared to machine learning-based chatbots. They rely on predefined rules and responses, which can be created and modified by developers without the need for extensive training data or complex algorithms.
+2) Developers can tailor rule-based chatbots to specific use cases, domains, or business requirements. They have the flexibility to define rules that reflect the unique needs of their users and organization, ensuring a customized and relevant conversational experience.
+3) Rule-based chatbots excel in handling queries within their known domain or scope. By defining rules that cover common user intents and scenarios, these chatbots can provide accurate and consistent responses for frequently asked questions or routine tasks.
+4) Developing and maintaining a rule-based chatbot typically requires fewer resources compared to building and training a machine learning-based chatbot. This can result in lower development costs and faster time-to-market for organizations looking to deploy conversational interfaces.
+5) Unlike machine learning-based chatbots, rule-based chatbots do not require large volumes of training data or continuous retraining. This eliminates the need for data annotation, model training, and ongoing maintenance associated with machine learning models.
+**Disadvantages of rule based chatbot**
+1) Rule-based chatbots operate within the constraints of predefined rules, making them less adaptable to changes or unexpected user inputs. They may struggle to handle queries that fall outside the scope of their rules or require nuanced understanding of language or context.
+2) Adding new rules or expanding the functionality of a rule-based chatbot can be labor-intensive and time-consuming. As the complexity of the conversational system grows, managing and updating rules becomes increasingly difficult, leading to scalability challenges.
+3) Rule-based chatbots may lack the ability to provide personalized responses tailored to individual users' preferences or history. Without sophisticated user profiling or machine learning capabilities, they are limited to generic responses based on predefined rules, which may not always meet users' expectations or needs.
+4) Rule-based chatbots do not have the ability to learn from user interactions or feedback data. Unlike machine learning models that can improve over time with more data and training, rule-based systems are static and do not adapt based on real-world usage.
